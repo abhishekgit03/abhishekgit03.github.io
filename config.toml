@@ -1,0 +1,43 @@
+baseurl      = "localhost"
+title        = "abhishek's blogs"
+languageCode = "en-us"
+theme        = "https://abhishekgit03.github.io"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  homeSubtitle = "travel, history and solo experiences"
+  disableReadOtherPosts = false
+  enableSharingButtons = true
+  enableGlobalLanguageMenu = true
+
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+  category = "blog"
+  tag      = "tags"
+  series   = "series"
+
+[languages]
+  [languages.en]
+    title = "abhishek's journal"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+  [languages.en.params]
+    subtitle  = "A simple theme for Hugo"
+
+    [languages.en.params.logo]
+      logoText = "blogs"
+      logoHomeLink = "/posts"
+
+
