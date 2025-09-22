@@ -1,7 +1,7 @@
-baseurl      = "localhost"
+baseurl      = "https://abhishekgit03.github.io"
 title        = "abhishek's blogs"
 languageCode = "en-us"
-theme        = "https://abhishekgit03.github.io"
+theme        = "hello-friend-ng"
 
 [pagination]
   pagerSize = 10
