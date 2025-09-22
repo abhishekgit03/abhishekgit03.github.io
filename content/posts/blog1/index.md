@@ -19,9 +19,6 @@ They renamed it Chittaranjan Park in the 1980s, honoring Chittaranjan Das, the n
 
 What completely amazed me, though, was realizing that many of the people who originally came to live here had roots in the exact same land where my ancestors lived. I got goosebumps thinking about it. There could be people in CR Park right now whose grandparents or great-grandparents might have actually known my family back then, might have lived just streets away from where my ancestors walked every day. This invisible thread of history suddenly made me feel like I belonged somewhere I'd never even considered before.
 
-{{< image src="photo1.jpg" alt="Ma Durga idol being brought to the mandap during the shobha jatra in CR Park" position="center"caption="This is a white kitten" style="max-width:250px;" >}}
-
-
 I started digging into Jessore's story after that, and learned it's called Jashore now in Bangladesh. The history is so layered and complex. It was once ruled by the famous Pratapaditya before the Mughals expanded their empire. Jessore was this significant cultural and political center that carries traces of ancient capitals, shifting borders, all these battles for power that shaped the region over centuries.
 
 During Partition in 1947, and then again during the 1971 Liberation War, Jessore saw these massive waves of Hindu families leaving their homes, often under the most tragic circumstances you can imagine. Many went to West Bengal and settled in places like Bongaon, while others traveled even further, eventually finding their way to colonies like CR Park here in Delhi. There's this interesting detail I found out: Jessore was actually the first district in Bangladesh to be liberated in 1971, which gives it this special place in the entire history of our subcontinent.
